@@ -1,4 +1,4 @@
-### Spring MVC CRUD App with JdbcTemplate
+## Spring MVC CRUD App with JdbcTemplate
 
 * Spring MVC
 * MySQL
